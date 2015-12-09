@@ -2,6 +2,8 @@
 
 App for adults with phonegap using API from RedTube.
 
+![Screnshoot APP in SmartPhone Asus ZenPhone 5](https://cloud.githubusercontent.com/assets/7466894/11685978/5674260c-9e64-11e5-8df1-8c2ab21b0961.jpg)
+
 # Contribute
 
 Resolve issues, create new issues or suggest improvements.
