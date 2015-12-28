@@ -2,7 +2,9 @@
 
 App for adults with phonegap using API from RedTube.
 
-![Screenshot APP working in SmartPhone Asus ZenPhone 5](http://158.69.215.165/unsafe/fit-in/600x400/filters:fill(fff)/https://cloud.githubusercontent.com/assets/7466894/11685978/5674260c-9e64-11e5-8df1-8c2ab21b0961.jpg)
+https://reginaldojunior.github.io/ForAdults
+
+![Screenshot APP working in SmartPhone Asus ZenPhone 5](https://cloud.githubusercontent.com/assets/7466894/11685978/5674260c-9e64-11e5-8df1-8c2ab21b0961.jpg)
 
 # Contribute
 
