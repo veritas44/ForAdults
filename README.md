@@ -1,3 +1,7 @@
+# Importante
+
+"Este aplicativo não tem como intenção o incentivo da industria pornografica de nenhuma maneira, foi feito meralmente para estudo e disponibilizado o código para que outros desenvolvedores possa estudar, pensei em deletar o mesmo mas não faz como falei é apenas para estudo e não faço publicidade dele nem o divulgo mais, caso alguém se sinta ofendido com a divulgação do código entre em contato comigo e que ficarei feliz em tirar o fonte do github e das demais plataformas onde podem está disponiveis." 
+
 # ForAdults
 
 App for adults with phonegap using API from RedTube.
